@@ -1,6 +1,6 @@
 
 
-### <img src = "https://i.ya-webdesign.com/images/png-format-reader-2.png" width="25" height="25" /> पाठकलाई  सुझाब
+### <img src = "https://github.com/sigdelbamshawali/book/blob/master/docs/img/reader.png?raw=true" width="25" height="25" /> पाठकलाई  सुझाब
 
 
 #### बंशलता हेर्दा ध्यान दिनू पर्ने कुराहरु

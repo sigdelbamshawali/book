@@ -1,4 +1,4 @@
-### <img src = "https://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Dna-icon.png" width="25" height="25" /> वंश इतिहास
+### <img src =  "https://github.com/sigdelbamshawali/book/blob/master/docs/img/dna.png?raw=true" width="25" height="25" /> वंश इतिहास
 
 
 ![img](img/bamsha.jpg)
