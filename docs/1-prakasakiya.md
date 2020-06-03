@@ -1,6 +1,8 @@
 
 
-### प्रकाशकीय
+### <img src = "https://images.vexels.com/media/users/3/140954/isolated/preview/92c8d4fffeec447a9106b65f8bbf0226-pen-paper-round-icon-by-vexels.png" width="25" height="25" />  प्रकाशकीय  
+
+
 
 ![img](img/ganesh.png)
 
@@ -8,7 +10,7 @@
 
 
 
-सिग्देल सेवा समाज
+- सिग्देल सेवा समाज
 केन्द्रय कार्यालय
 काठमाण्डौं
 
