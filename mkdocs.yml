@@ -1,0 +1,55 @@
+
+
+site_name: सिग्देल वंशावली
+
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
+    
+theme:
+  name: 'rtd-dropdown'
+  highlightjs: true
+  hljs_languages: []
+  include_homepage_in_sidebar: true
+  prev_next_buttons_location: bottom
+  navigation_depth: 4
+  titles_only: false
+  sticky_navigation: true
+  collapse_navigation: true
+ 
+ 
+  
+      
+markdown_extensions:
+  - codehilite:
+      linenums: false
+      guess_lang: false
+      use_pygments: true
+      noclasses: true
+      pygments_style: manni
+
+
+
+nav:
+- Home: index.md
+- प्रकाशकीय: 1-prakasakiya.md
+- देउरालीमा एक थुँगा फूल: 2-deurali.md
+- लेखकको कालमबाट: 3-lekhak.md
+- संकलकको कलमबाट: 4-sankalak.md
+- सिग्देल वंशावली: 5-sigdel-bamshawali.md
+- मानव सृष्टिका विश्लेषणहरु: 6-manab.md
+- वेदको परिचय: 7-bedh.md
+- वंश इतिहास: 8-bamsaj.md
+- कुलपुजा: 9-kul.md
+  
+  
+
+
+ 
+ 
+ 
+ 
+ 
